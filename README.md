@@ -1,2 +1,2 @@
-# go-domo
-Go学习记录
+# go-demo
+> Go学习记录
